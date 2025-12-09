@@ -1,0 +1,33 @@
+﻿Gamelands,Plot,Treatment,Total Ticks,Canopy closure %,Dominate Tree,Total coverage %,Dominant US Cover 1,Cover Class 1,CC1%,Midpt.1,Dominant US Cover 2,Cover Class 2,CC2%,Midpt.2,Soil Texture ,Soil Moisture %,Litter Depth (cm)
+SGL 176,1,CON,10,100,Red Maple,100,Leaf Litter,5,76–95,85.5,Lowbush Blueberry,2,5–25,15,sandy,59.51,0.1
+SGL 176,2,2D,11,100,Bigtooth Aspen,37.5,Rhizomatous Fern,4,51–75,63,Leaf Litter,2,5–25,15,sandy,45.57,0.15
+SGL 176,3,6D,57,100,Bigtooth Aspen,66.66,Leaf Litter,3,26–50,38,Highbush Blueberry,2,5–25,15,clay,42.01,0.13
+SGL 176,4,CON,49,100,Red Maple,50,Wild Strawberry,3,26–50,38,Virginia Creeper,2,5–25,15,clay loam,27.01,0.46
+SGL 176,4,CON,49,100,Scarlet Oak,50,Wild Strawberry,3,26–50,38,Virginia Creeper,2,5–25,15,clay loam,27.01,0.46
+SGL 176,5,2D,30,100,Red Maple ,33.33,White Oak Germ,5,76–95,85.5,Lowbush Blueberry,2,5–25,15,silt loam,20.89,0.51
+SGL 176,6,6D,70,100,White Oak ,50,Leaf Litter,4,51–75,63,White Oak Germ,2,5–25,15,silt loam,41.75,0.64
+SGL 176,7,CON,47,75,White Pine,100,Leaf Litter,4,51–75,63,Lowbush Blueberry,2,5–25,15,clay silt/loam,56.15,0.64
+SGL 176,8,2D,67,100,Scarlet Oak ,20,Leaf Litter,5,76–95,85.5,Rhizomatous Fern,2,5–25,15,sandy loam,51.34,0.51
+SGL 176,9,6D,55,100,Red Maple,80,Japanese Stiltgrass,6,>95,97.5,Garlic Mustard,2,5–25,15,clay loam,43.56,0
+SGL 33,1,CON,61,100,Sassafras ,40,Wintergreen ,3,26–50,38,Leaf Litter,3,26–50,38,silt loam,63.39,0.08
+SGL 33,2,2D,52,50,Sassafras ,66.67,Leaf Litter,5,76–95,85.5,Wintergreen ,2,5–25,15,silt loam,51.62,0.18
+SGL 33,3,6D,69,100,Chestnut Oak ,66.67,Leaf Litter,4,51–75,63,Wild Sarsaparilla ,3,26–50,38,silt loam,65.9,0.23
+SGL 33,4,CON,54,75,Sassafras ,80,Leaf Litter,3,26–50,38,Lowbush Blueberry,2,5–25,15,silt loam,61.74,0.13
+SGL 33,5,2D,4,75,Sassafras ,40,Wild Strawberry,5,76–95,85.5,Leaf Litter,3,26–50,38,silt loam,56.99,0.58
+SGL 33,6,6D,5,100,NA,0,Red Oak Germ ,5,76–95,85.5,Wild Strawberry ,5,76–95,85.5,silt loam,26.03,0.69
+SGL 33,7,CON,7,75,Red Oak ,77.78,CWD,5,76–95,85.5,Rhizomatous Fern,2,5–25,15,silt loam,56.97,0.48
+SGL 33,8,2D,12,50,Sassafras ,50,Wintergreen ,3,26–50,38,Lowbush Blueberry,2,5–25,15,silt loam,59.8,0.25
+SGL 33,9,6D,6,100,Red Maple,42.85,Wintergreen ,3,26–50,38,Leaf Litter,2,5–25,15,silt loam,65,0.41
+SGL 33,10,CON,20,100,Red Oak ,66.67,Wild Sarspaparilla,3,26–50,38,Leaf Litter,2,5–25,15,silt loam,53.43,0.64
+SGL 33,11,2D,29,50,NA,0,Sedge,2,5–25,15,Wild Strawberry ,2,5–25,15,sandy,26.89,0.28
+SGL 33,12,6D,21,75,White Oak ,60,New York Fern ,3,26–50,38,Leaf Litter,2,5–25,15,sandy,47.65,0.38
+SGL 103,1,CON,15,75,Red Maple,66.67,Rhizomatous Fern,3,26–50,38,Leaf Litter,3,26–50,38,silt loam,62.9,3
+SGL 103,2,2D,29,25,Pitch Pine,100,Wild Strawberry,5,76–95,85.5,Arrow-Leaved Tearthumb,3,26–50,38,loam,48.39,0.5
+SGL 103,3,6D,21,75,Red Maple,60,Rhizomatous Fern,3,26–50,38,Sedge,3,26–50,38,silt loam,36.58,1
+SGL 103,4,CON,76,75,Sweet Birch ,50,Leaf Litter,4,51–75,63,Lowbush Blueberry ,2,5–25,15,silt loam,38.08,1
+SGL 103,5,2D,26,100,White Oak ,50,Rhizomatous Fern,4,51–75,63,Leaf Litter,3,26–50,38,silt loam,53.27,2
+SGL 103,5,2D,26,100,Scarlet Oak ,50,Rhizomatous Fern,4,51–75,63,Leaf Litter,3,26–50,38,silt loam,53.27,2
+SGL 103,6,6D,39,100,Red Maple,60,Rhizomatous Fern,3,26–50,38,Leaf Litter,3,26–50,38,silt loam,42.6,2
+SGL 103,7,CON,57,75,Red Maple,66.67,Rhizomatous Fern,6,>95,97.5,Red Oak Germ ,3,26–50,38,silt loam,38.24,2
+SGL 103,8,2D,65,100,Mockernut Hickory ,20,CWD,6,>95,97.5,White Snakeroot,2,5–25,15,silt loam,46.29,5
+SGL 103,9,6D,30,75,Sassafras ,60,Leaf Litter,4,51–75,63,Red Oak Germ ,3,26–50,38,silt loam ,18.94,3
